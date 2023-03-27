@@ -4,7 +4,7 @@ cli:
   version: 1.6.2-beta.7
 
 api:
-  address: localhost:5021
+  address: api.dev.trunk-staging.io:8443
 
 plugins:
   sources:

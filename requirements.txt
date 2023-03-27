@@ -1,3 +1,1 @@
-opencv-python==3.1.0
-pillow==9.1.0
-flask==0.1
+django==1.11
